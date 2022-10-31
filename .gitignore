@@ -1,6 +1,8 @@
 *.mkv
 *.mp4
 *.xmind
+*.drawio
+*.drawio.bkp
 
 封面.png
 封面.xcf
